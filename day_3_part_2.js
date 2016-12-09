@@ -1,5 +1,7 @@
 /* REFER TO day_3_data.js TO GET THE INPUT (var inp)
-Now that you've helpfully marked up their design documents, it occurs to you that triangles are specified in groups of three vertically. Each set of three numbers in a column specifies a triangle. Rows are unrelated.
+Now that you've helpfully marked up their design documents, 
+it occurs to you that triangles are specified in groups of three vertically. 
+Each set of three numbers in a column specifies a triangle. Rows are unrelated.
 
 For example, given the following specification, numbers with the same hundreds digit would be part of the same triangle:
 
